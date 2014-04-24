@@ -1,0 +1,27 @@
+Moirai Web Builder change log
+
+1.0.1
+-Fixes:
+--added an option for VideoJS for subtitle support using .srt files
+
+1.0.2
+-Fixes:
+--added support for .txt and .mks subtitle files
+
+1.0.3
+-Fixes:
+--took care of a minor bug in the TV section of the local build
+--added support for .vtt (webvtt) subtitle files
+--added support for Windows computers
+--improved the html styling
+
+1.0.4
+-Fixes:
+--improved support for Windows by using Samba file sharing
+--improved the html styling
+
+1.0.5
+-Fixes:
+--fixed a HUGE bug so non-OS X operating systems can use this
+--added the "other" operating system option
+--turned compression on for sync transfers
