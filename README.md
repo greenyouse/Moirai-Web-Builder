@@ -1,5 +1,4 @@
 # Moirai Web Builder 
----------------------
 This is a website generator to be used with XBMC for building small
 video sites. It was a project I did mostly to learn AppleScript. 
 
